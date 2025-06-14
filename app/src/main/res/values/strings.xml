@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Zakat</string>
+    <string name="zakat_calculator">যাকাত ক্যালকুলেটর</string>
+    <string name="chandra_bosore">চন্দ্র বছরে আপনার দখলে থাকা সমস্ত সম্পদের পরিমান প্রবেশ করুন:</string>
+    <string name="empty" />
+    <string name="hishab_korun">হিসাব করুন</string>
+    <string name="no_internet">No internet</string>
+    <string name="check_internet">Check your internet connection and try again.</string>
+    <string name="no_content">No content</string>
+    <string name="try_again">Try again</string>
+    <string name="donation">উপহার</string>
+    <string name="donation_process">উপহার সম্পূর্ণ করুন</string>
+    <string name="amount">"আমাউন্ট "</string>
+    <string name="other_amount">"| অথবা যেকোনো আমাউন্ট দিন "</string>
+    <string name="enter_amout">আমাউন্ট প্রবেশ করান</string>
+    <string name="ssl">SSL</string>
+    <string name="rahmat">রহমত  মাগফিরাত দয়া ও ক্ষমার অনুশীলন করি</string>
+    <string name="select_any_amount">"যেকোনো আমাউন্ট সিলেক্ট করুন "</string>
+    <string name="exit_this_app">Exit from this app?</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="play_store_text_muslim_bd">পরিপূর্ণ  ও সঠিক ভাবে ইসলামের বিষয়গুলি জানতে ডাউনলোড করুন</string>
+    <string name="play_store_text_holy_tune">ইসলামিক গজলের বৃহত্তম প্লাটফর্ম\n(এড ফ্রি)</string>
+    <string name="al_quran_bn">আল কুরআন</string>
+    <string name="dua_bn">দুয়া</string>
+</resources>
